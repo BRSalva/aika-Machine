@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif !important;
+}
+
+.nav-link:hover{
+    color: #B50D13 !important;
+    transition: 0.5s;
+}
+
+.navItems{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.bg-header{
+    background-color: black;
+}
